@@ -7,6 +7,9 @@
  */
 package com.me.learn.algorithm.lianbiao.xianxinglianbiao;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
  * @author Administrator
  * @date 2020/10/7 20:34
@@ -14,6 +17,6 @@ package com.me.learn.algorithm.lianbiao.xianxinglianbiao;
  */
 public class ArrayListApp {
     public static void main(String[] args) {
-
+        List<String> list = new ArrayList<>(20);
     }
 }
